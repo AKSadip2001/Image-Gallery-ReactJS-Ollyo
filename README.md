@@ -1,8 +1,9 @@
-# React + Vite
+# Netlify Link
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://image-gallery-reactjs-ollyo.netlify.app/
 
-Currently, two official plugins are available:
+# Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+https://github.com/AKSadip2001/Image-Gallery-ReactJS-Ollyo/assets/84903691/c2f70649-41af-4d51-91b5-443059b2447e
+
