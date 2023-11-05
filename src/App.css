@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: aliceblue;
+}
+
+.selected {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.notSelected:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
